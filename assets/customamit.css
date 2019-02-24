@@ -1,0 +1,6 @@
+ul#activity li {
+  display:inline;
+}
+.gradblue {
+  background-image: linear-gradient(to bottom , #0F7F8F,#175884);
+}
